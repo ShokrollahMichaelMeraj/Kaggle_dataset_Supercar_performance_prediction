@@ -81,7 +81,7 @@ supercar-0to60-prediction/
     │   └── nn_zero_to_sixty.keras 
     │
     ├── gui/
-    │   └── app.py                      # Streamlit or Flask app (UI)
+    │   └── app.py                      # Figma Make (UI) connected with Fast API (COMING SOON)
     │
     ├── reports/
     │   └── figures/ 
